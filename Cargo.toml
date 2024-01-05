@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["FlareFlo"]
 license = "MIT OR Apache-2.0"
 description = "Provides Always42"
+repository = "https://github.com/FlareFlo/always_42"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
